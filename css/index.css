@@ -3,7 +3,7 @@ html{
     background-color: aqua;
 }
 header{
-    width: 35rem;
+    width: 33rem;
     height: 6rem;
     margin: 0 2rem 0 0;
     background-color: rgba(203, 203, 203, 1);
@@ -38,9 +38,9 @@ header{
 }
 .fondob{
     width: 35rem;
-    height: 32rem; 
+    height: 34rem; 
     background-color: white;
-    margin: 0 0 0rem 1rem;
+    margin: 2rem 0 0rem 1rem;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
     border-radius: 2rem;
